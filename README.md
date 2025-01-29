@@ -1,4 +1,5 @@
-Table:-
+Brendan Khamvong
+
 | Homeworks    | Labs        | Project |
 | :------:|:-----------:|:-----:|
 | [week1](/Homework/HW1/) | [week1](/Lab/Lab1/) | |
